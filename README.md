@@ -34,8 +34,9 @@ A lightweight JavaScript script that runs directly in your browser console, givi
 **Example:**
 
 ```
-keep @pewdiepie
-keep @mkbhd
+keep @pewdiepie 
+keep @yusufipk
+keep @kskroyaltech
 run
 ```
 
